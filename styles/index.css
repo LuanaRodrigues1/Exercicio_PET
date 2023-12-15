@@ -22,7 +22,7 @@ header{
     align-items: center;
     justify-content: space-between;
 
-    padding: 0.2rem 3rem 0.2rem 1rem;
+    padding: 0.6rem 5rem 0.6rem 3rem;
 
     background-color: var(--cor-roxo-claro);
 }
@@ -100,7 +100,7 @@ h4 {
 
 .section_aside {
     border: 0.5rem solid var(--cor-roxo-claro);
-    padding: 1rem;
+    padding: 2rem;
     margin-bottom: 2rem;
 }
 
